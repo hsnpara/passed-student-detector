@@ -1,1 +1,1 @@
-# passed-student-detector
+# passd-student-detector
